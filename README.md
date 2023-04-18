@@ -1,5 +1,5 @@
-<h3 align="center">Manas Afrid</h3>
-<h5 align="center">Undergraduate Software Engineer</h5>
+<h1 align="center">Hi 👋 I'm Manas Afrid</h1>
+<h3 align="center">I am a Undergraduate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasafrid&label=Profile%20views&color=0e75b6&style=flat" alt="manasafrid" /> </p>
 
